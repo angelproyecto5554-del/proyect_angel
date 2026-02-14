@@ -1,4 +1,11 @@
-h1{
+body{
   background-color: black;
+  color: white;
+  font-size: 50px;
+  font-family: roman;
 }
-
+img{
+  border-radius: 100px;
+  border: solid 15px black;
+  
+}
